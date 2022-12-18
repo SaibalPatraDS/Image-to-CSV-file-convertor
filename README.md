@@ -1,6 +1,9 @@
 # Image-to-CSV-file-convertor
 Run the given code to convert images(image folder) from a directory into a csv file with the pixel values as row and column values. 
 
+-----------------------------------------------------
+------------------------------------------------
+
 
 ## Resources
 

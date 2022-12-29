@@ -4,7 +4,7 @@ import sys
 import os
 import csv
 import matplotlib.pyplot as plt
-import csv2 as cv
+import cv2 as cv
 
 
 #Useful function
